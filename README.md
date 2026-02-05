@@ -1,27 +1,34 @@
-# 👨‍💻 Data Scientist | AI Solutions Architect | Lawyer
+# 👨‍💻 AI Architect | AI Consultant | Lecturer | Lawyer
 
 ## 🔭 Currently working on:
-- Developing cutting-edge AI applications using generative models like OpenAI GPT3/4, Gemini, llama/llama2, Nvidia Megatron, Bloom, and more.
-- Consulting on AI strategies and data pipelines for businesses and public entities.
-- Help startups and growth companies set up AI/ML features.
+- Principal AI Scientist at JetBridge AI and AI Solutions Architect at PanasonicWELL, designing and deploying GenAI-powered solutions at scale.
+- Co-founding BUY-IT.AI — architecting multimodal AI systems for product detection in video, combining computer vision and generative models to transform retail ecosystems.
+- Consulting on AI strategies, LLM orchestration, multi-agent systems, and production-grade ML pipelines for companies across finance, automotive, legal, and government sectors.
 
-## 🌱 Currently learning:
-- Exploring the intersection of law and AI, focusing on legal aspects of generative models and intellectual property.
-- Keeping up with the latest advancements in machine learning and natural language processing. Creating and deploying in production Agents using LLMs.
+## 🎓 Teaching:
+- Lecturer at Wrocław University of Science and Technology — teaching "Legal, Social, and Ethical Aspects of Artificial Intelligence" to master's-level AI students, covering IP rights, GDPR, AI Act, blockchain, smart contracts, and the ethics of AI productization.
+
+## 🌱 Currently exploring:
+- Forward deployment of AI agents — from brainstorming and ideation through pilots to production-ready systems using LLMs.
+- Intersection of law and AI, focusing on legal frameworks for generative models, intellectual property, and responsible AI deployment.
+- Multi-agent orchestration, RAG pipelines, and scalable AI infrastructure.
 
 ## 👯 Looking to collaborate on:
-- ML projects involving NLP, recommendation engines, social media analysis, and other AI applications.
-- Research initiatives related to legal aspects of AI and the ethical implications of AI technologies.
+- AI agent and multi-agent system projects, especially those going from prototype to production.
+- Research at the intersection of NLP, legal AI, and ethical AI deployment.
+- Open-source NLP tools and benchmarks, particularly for the Polish language (CLARIN-PL).
 
 ## 💬 Ask me about:
-- Data Science, AI solutions, and machine learning techniques.
-- Legal aspects of computer science and AI, including IP and blockchain-related laws.
-- NLP applications, sentiment analysis, and information extraction.
+- AI architecture, LLM integration, and building production ML systems.
+- Legal aspects of AI — IP, data protection, GDPR, and AI ethics.
+- NLP applications: sentiment analysis, spoken language understanding, information extraction, and dialogue systems.
+- Building and leading ML/DS teams and defining data strategies.
 
 ## 📫 How to reach me:
-- LinkedIn: [Łukasz Augustyniak](https://www.linkedin.com/in/lukasz-augustyniak/)
+- LinkedIn: [Łukasz Augustyniak](https://www.linkedin.com/in/lukaszaugustyniak/)
 - Email: aisolutions@lukaszaugustyniak.com
 
 ## ⚡ Fun fact:
-- I have a background in law and always wanted to merge my knowledge of law and AI.
-- I enjoy exploring different cultures and environments and have had the opportunity to study and work in various countries, including Singapore, Spain, and the UK. However, I have been working entirely remotely since 2017/2018.
+- I hold degrees in both Law (MA) and Computer Science (PhD, MSc, BEng), and I've been merging these worlds ever since.
+- I've researched and worked across Singapore, Spain, Slovenia, the UK (Cambridge), and Poland — but have been fully remote since 2017.
+- I was part of the Cambridge TOP500 Innovators programme for Science, Management & Commercialization.
